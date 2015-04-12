@@ -7,11 +7,17 @@ Special thanks to http://stm32f4-discovery.com/ and Tilen Majerle for his awesom
 The Bluetooth_USART project is a culmination of minor projects all in one. It features the LCD display, servo drivers, distance sensors, all controlled via bluetooth.
 
 Current Functions:
-  -> Turning on/off LEDS
-  -> Controlling rotation of servo's from 0-180 degrees (SG90 servo modules)
-  -> Output Distance onto Display (HC_SR04 modules)
-  -> BT communication (HC-05 module)
+
+  * Turning on/off LEDS
+  
+  * Controlling rotation of servo's from 0-180 degrees (SG90 servo modules)
+  
+  * Output Distance onto Display (HC_SR04 modules)
+  
+  * BT communication (HC-05 module)
 
 Future Functions:
-  -> Output GPS coordinates (Sparkfun Venus GPS)
-  -> Control DC motors
+
+  * Output GPS coordinates (Sparkfun Venus GPS)
+  
+  * Control DC motors
